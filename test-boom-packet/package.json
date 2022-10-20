@@ -1,0 +1,18 @@
+{
+  "name": "test-boom-packet",
+  "main": "./lib/test-boom-packet",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "test-boom-packet:toggle"
+  },
+  "repository": "https://github.com/atom/test-boom-packet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
